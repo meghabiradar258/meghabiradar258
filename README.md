@@ -59,13 +59,13 @@ Development Tools: Git, Docker, IntelliJ IDEA
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghabiradar258" alt="meghabiradar258" /></a> </p>
 
 <br>
-###
+
 
    <h2 align="left">My Social Links:</h2>
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="right" width="60"/>
-  <a href="https://www.linkedin.com/in/anamika-k-93877323a/"><img src="https://i.pinimg.com/564x/03/5a/6b/035a6be81e71b377dcebdc6c6b9b84d9.jpg" width="45" /></a>
+  <a href="https://www.linkedin.com/in/megha-biradar/"><img src="https://i.pinimg.com/564x/03/5a/6b/035a6be81e71b377dcebdc6c6b9b84d9.jpg" width="45" /></a>
 <a href="https://www.youtube.com/channel/UC_amoXmmxSY9oDczDTXQ"><img src="https://i.pinimg.com/564x/c7/b3/f0/c7b3f0f21a1407791cfe955d1913bddb.jpg" width="50" /></a>
-<a href="https://github.com/anamicca23"><img src="https://i.pinimg.com/564x/d0/f8/9d/d0f89dd9104622ce3338e621607cd608.jpg" width="55" /></a>
+<a href="https://github.com/meghabiradar258"><img src="https://i.pinimg.com/564x/d0/f8/9d/d0f89dd9104622ce3338e621607cd608.jpg" width="55" /></a>
 <a href="mailto:meghabiradar589@gmail.com"><img src="https://i.pinimg.com/564x/21/f7/ca/21f7ca8b9f5ccf898c31878e038c1a73.jpg" width="45" /></a>
 <a href="https://www.instagram.com/megha_b_1999"><img src="https://i.pinimg.com/564x/a1/94/12/a194127f5e5c285a2734c775f4a15395.jpg" width="45" /></a>
 <a href="https://t.me/"><img src="https://i.pinimg.com/564x/e3/b7/38/e3b73816fdd89fe8e0c7be72888ed719.jpg" width="50" /></a>
