@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Megha Biradar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Megha+Biradar;SoftWare Developer+Pune;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    
+
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghabiradar258&label=Profile%20views&color=0e75b6&style=flat" alt="meghabiradar258" /> </p>
 
