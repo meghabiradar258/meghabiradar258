@@ -20,7 +20,7 @@ Frameworks: Spring, Hibernate
  Tools:  JIRA, Postman
 Development Tools: Git, Docker, IntelliJ IDEA
 
- 📫 Reach me at Eamil :meghabiradar589@gmail.com
+ 📫 Reach me at Eamil :meghabiradar589@gmail.com<br>
   linkedin : https://www.linkedin.com/in/megha-biradar/
 
 ---
