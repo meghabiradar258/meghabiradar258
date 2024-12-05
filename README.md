@@ -4,8 +4,14 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Megha+Biradar;SoftWare Developer+Pune;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+   <div align="center">
+  <img  alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HI!+Megha+Biradar+Here🖐️.;I+am+a+Software+Developer💻.;I+am+a+Competitive+Programmer📊.;"/>
+</div>
+   ## 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
+
+###
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
@@ -31,3 +37,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghabiradar258&show_icons=true&locale=en" alt="meghabiradar258" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meghabiradar258&" alt="meghabiradar258" /></p>
+
+###
+
+   <h2 align="left">My Social Links:</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="right" width="60"/>
+  <a href="https://www.linkedin.com/in/anamika-k-93877323a/"><img src="https://i.pinimg.com/564x/03/5a/6b/035a6be81e71b377dcebdc6c6b9b84d9.jpg" width="45" /></a>
+<a href="https://www.youtube.com/channel/UC_amoXmmxSY9oDczDTXQ"><img src="https://i.pinimg.com/564x/c7/b3/f0/c7b3f0f21a1407791cfe955d1913bddb.jpg" width="50" /></a>
+
+<a href="https://github.com/anamicca23"><img src="https://i.pinimg.com/564x/d0/f8/9d/d0f89dd9104622ce3338e621607cd608.jpg" width="55" /></a>
+
+<a href="mailto:meghabiradar589@gmail.com"><img src="https://i.pinimg.com/564x/21/f7/ca/21f7ca8b9f5ccf898c31878e038c1a73.jpg" width="45" /></a>
+
+<a href="https://www.instagram.com/megha_b_1999"><img src="https://i.pinimg.com/564x/a1/94/12/a194127f5e5c285a2734c775f4a15395.jpg" width="45" /></a>
+<a href="https://t.me/"><img src="https://i.pinimg.com/564x/e3/b7/38/e3b73816fdd89fe8e0c7be72888ed719.jpg" width="50" /></a>
+<a href="https://wa.me/+00000"><img src="https://i.pinimg.com/564x/35/50/20/35502083f7c1a5f666621e864ac04b9d.jpg" width="50"/></a>
+</div>
+
+###
+
