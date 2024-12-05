@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Megha Biradar</h1>
 
    <div align="center">
-  <img  alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HI!+Megha+Biradar+Here🖐️.;I+am+a+Software+Developer💻.;I+am+a+Competitive+Programmer📊.;Learning+In+Public.;Learning+In+Public.;Empowering+Others;Nice+To+Meet+You+.;"/>
+  <img  alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HI!+Megha+Biradar+Here🖐️.;I+am+a+Software+Developer💻.;I+am+a+Competitive+Programmer📊.;Learning+In+Public.;Empowering+Others;Nice+To+Meet+You+.;"/>
 </div>
-   ## 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-
+    
 
 ###
 
