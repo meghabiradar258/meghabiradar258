@@ -52,7 +52,7 @@ Development Tools: Git, Docker, IntelliJ IDEA
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meghabiradar258&show_icons=true&locale=en&layout=compact" alt="meghabiradar258" /></p>
 
 ---
-
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghabiradar258&label=Profile%20views&color=0e75b6&style=flat" alt="meghabiradar258" /> </p>
 
@@ -72,5 +72,4 @@ Development Tools: Git, Docker, IntelliJ IDEA
 <a href="https://wa.me/+00000"><img src="https://i.pinimg.com/564x/35/50/20/35502083f7c1a5f666621e864ac04b9d.jpg" width="50"/></a>
 </div>
 
-###
 
