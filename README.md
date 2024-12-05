@@ -3,7 +3,7 @@
    <div align="center">
   <img  alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HI!+Megha+Biradar+Here🖐️.;I+am+a+Software+Developer💻.;I+am+a+Competitive+Programmer📊.;Learning+In+Public.;Empowering+Others;Nice+To+Meet+You+.;"/>
 </div>
----
+
 <h3 align="center">Software Developer | Passionate Backend Developer from India</h3><br> <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 🌱 I’m currently learning Spring Framework and exploring Advanced Backend Development.
 
@@ -41,15 +41,6 @@ Development Tools: Git, Docker, IntelliJ IDEA
   
 </p>
 </details>
----
-###
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meghabiradar258&label=Profile%20views&color=0e75b6&style=flat" alt="meghabiradar258" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghabiradar258" alt="meghabiradar258" /></a> </p>
 
 ---
 
@@ -63,6 +54,11 @@ Development Tools: Git, Docker, IntelliJ IDEA
 ---
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meghabiradar258&label=Profile%20views&color=0e75b6&style=flat" alt="meghabiradar258" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghabiradar258" alt="meghabiradar258" /></a> </p>
+
+<br>
 ###
 
    <h2 align="left">My Social Links:</h2>
