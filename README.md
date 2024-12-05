@@ -4,11 +4,35 @@
   <img  alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HI!+Megha+Biradar+Here🖐️.;I+am+a+Software+Developer💻.;I+am+a+Competitive+Programmer📊.;Learning+In+Public.;Empowering+Others;Nice+To+Meet+You+.;"/>
 </div>
     
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+
+
+
+
+
+
+<h3 align="center">Software Developer | Passionate Backend Engineer from India</h3><br> <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+🌱 I’m currently learning Spring Framework and exploring Advanced Backend Development.
+
+💬 Ask me about Backend Development, Database Management, and Agile Methodologies.
+
+🌟 Passionate about creating robust, scalable, and efficient backend systems that power innovative solutions.
+
+🎓 Educational Background in Computer Science, including a Master of Computer Applications and hands-on expertise in Java and related frameworks.
+
+🛠️ Technical Skills include:
+
+Programming Languages: Java, SQL
+Frameworks: Spring, Hibernate
+ Tools:  JIRA, Postman
+Development Tools: Git, Docker, IntelliJ IDEA
+📫 Reach me at meghabiradar589@gmail.com
+
 
 ###
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghabiradar258&label=Profile%20views&color=0e75b6&style=flat" alt="meghabiradar258" /> </p>
 
