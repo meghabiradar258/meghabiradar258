@@ -21,7 +21,7 @@ Frameworks: Spring, Hibernate
 Development Tools: Git, Docker, IntelliJ IDEA
 
  📫 Reach me at Eamil :meghabiradar589@gmail.com<br>
-  linkedin : https://www.linkedin.com/in/megha-biradar/
+
 
 ---
 <h2 align="left">🎓 Education:</h2>
