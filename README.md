@@ -64,7 +64,7 @@ Development Tools: Git, Docker, IntelliJ IDEA
 
    <h2 align="left">My Social Links:</h2>
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" align="right" width="60"/>
-  <a href="https://www.linkedin.com/in/"><img src="https://i.pinimg.com/564x/03/5a/6b/035a6be81e71b377dcebdc6c6b9b84d9.jpg" width="45" /></a>
+  
 <a href="https://www.youtube.com/channel/UC_amoXmmxSY9oDczDTXQ"><img src="https://i.pinimg.com/564x/c7/b3/f0/c7b3f0f21a1407791cfe955d1913bddb.jpg" width="50" /></a>
 <a href="https://github.com/meghabiradar258"><img src="https://i.pinimg.com/564x/d0/f8/9d/d0f89dd9104622ce3338e621607cd608.jpg" width="55" /></a>
 <a href="mailto:meghabiradar589@gmail.com"><img src="https://i.pinimg.com/564x/21/f7/ca/21f7ca8b9f5ccf898c31878e038c1a73.jpg" width="45" /></a>
